@@ -1,6 +1,6 @@
 # Assignment 3 Lighthouse Report and Sources
  ## First Accessibility Score
-   ![Accesibility Score] (https://github.com/alexisimani/m3-hw3-wright-alexis/blob/0b09b1b135d602f11ff55ce78d31338fc29d6d8f/images/Accessibility%20Score%201.png)
+   ![Accesibility Score](https://github.com/alexisimani/m3-hw3-wright-alexis/blob/0b09b1b135d602f11ff55ce78d31338fc29d6d8f/images/Accessibility%20Score%201.png)
  ## First SEO Score
   ![SEO Score 1](https://github.com/alexisimani/m3-hw3-wright-alexis/blob/0b09b1b135d602f11ff55ce78d31338fc29d6d8f/images/SEO%20Score%201.png)
  ## Second SEO Score after fixing error
